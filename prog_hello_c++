@@ -1,0 +1,11 @@
+#include<iostream>
+
+using namespace std;
+using System;
+
+int main()
+{
+  cout<<"Hello Word"<<endl;
+  
+  return 0;
+}
